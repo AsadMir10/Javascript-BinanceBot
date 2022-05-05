@@ -15,7 +15,7 @@ Follow the instructions below.
 - Install Node JS [link](https://nodejs.org/en/)
 - Download and unzip this package.
 - Go to the current folder on command promt and run below commands
-- To update the env File you have to write your API key which you will usually find in Binance like in this link[https://www.binance.com/en/my/settings/api-management]
+- To update the env File you have to take your API key which you will usually find in Binance API managment from there you have to inject the API and the Secret Key       into the .env file.
 
 ```bash
 npm install
